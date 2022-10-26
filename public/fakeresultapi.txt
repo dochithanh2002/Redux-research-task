@@ -1,0 +1,20 @@
+{
+        "entity_id": "1",
+        "attribute_set_id": "15",
+        "type_id": "simple",
+        "sku": "24-MB01",
+        "has_options": "0",
+        "required_options": "0",
+        "created_at": "2022-08-31 18:09:51",
+        "updated_at": "2022-08-31 18:09:51",
+        "description": "<p>The sporty Joust Duffle Bag can't be beat - not in the gym, not on the luggage carousel, not anywhere. Big enough to haul a basketball or soccer ball and some sneakers with plenty of room to spare, it's ideal for athletes with places to go.<p>\n<ul>\n<li>Dual top handles.</li>\n<li>Adjustable shoulder strap.</li>\n<li>Full-length zipper.</li>\n<li>L 29\" x W 13\" x H 11\".</li>\n</ul>",
+        "status": "1",
+        "visibility": "4",
+        "price": "34.000000",
+        "name": "Joust Duffle Bag",
+        "image": "/m/b/mb01-blue-0.jpg",
+        "small_image": "/m/b/mb01-blue-0.jpg",
+        "thumbnail": "/m/b/mb01-blue-0.jpg",
+        "url_key": "joust-duffle-bag",
+        "store_id": 1
+}
